@@ -13,3 +13,11 @@ Security Researcher | Bug Bounty Hunter | Penetration Tester
   <img src="https://img.shields.io/badge/Security-Researcher-blue" />
   <img src="https://img.shields.io/badge/Pentester-Professional-orange" />
 </p>
+
+🛠️ Technologies & Tools
+Core Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=zapier&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)

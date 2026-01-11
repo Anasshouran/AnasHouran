@@ -13,3 +13,14 @@ Security Researcher | Bug Bounty Hunter | Penetration Tester
   <img src="https://img.shields.io/badge/Security-Researcher-blue" />
   <img src="https://img.shields.io/badge/Pentester-Professional-orange" />
 </p>
+Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasHouran&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+</p>

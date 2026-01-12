@@ -36,3 +36,9 @@ Programming & Scripting
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+- 🔧 **AnonSurf**: Anonymization toolkit
+- 📡 **Airgeddon**: Wireless security auditing
+- 🔍 **Ferret**: Forensic analysis tools
+- 🛡️ **Firejail**: Sandboxing environment
+- 🎯 **Mdk4**: Wireless attack tool

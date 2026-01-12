@@ -30,7 +30,6 @@ Programming & Scripting
 
 Platforms & Environments
 ### **Platforms & Environments**
-```markdown
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

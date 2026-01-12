@@ -30,7 +30,6 @@ Programming & Scripting
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Platforms & Environments
 ### **Platforms & Environments**
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

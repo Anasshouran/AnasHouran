@@ -1,6 +1,7 @@
 🔐 Hi there, I'm Anas Houran! 👋
 
 🎯 About Me
+
 Security Researcher | Bug Bounty Hunter | Penetration Tester |Android
 
 <p align="center">
@@ -38,16 +39,6 @@ Programming & Scripting
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasHouran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&show=reviews,discussions_started,discussions_answered" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHouran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8&exclude_repo=github-readme-stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasHouran&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-</p>
 
 🎯 Specialization Areas
 Web Application Security

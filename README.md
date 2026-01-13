@@ -4,7 +4,7 @@
 Security Researcher | Bug Bounty Hunter | Penetration Tester |Android
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Security+Researcher;Bug+Bounty+Hunter;Penetration+Tester;Web+Application+Security" alt="Security Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Security+Researcher;Bug+Bounty+Hunter;Penetration+Tester;Web+Application+Security;Android+Programming" alt="Security Roles" />
 </p>
 
 <p align="center">

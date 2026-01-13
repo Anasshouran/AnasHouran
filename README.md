@@ -56,3 +56,17 @@ Web Application Security
 - 🔐 **Authentication/Authorization** bypasses
 - 📱 **Mobile Application** security
 - ☁️ **Cloud Security** (AWS, Azure, GCP)
+
+Bug Bounty Focus
+- 💰 **Bounty Platforms**: HackerOne, Bugcrowd, Intigriti
+- 🎯 **Target Types**: Web apps, Mobile apps, APIs
+- 📈 **Methodology**: Reconnaissance → Enumeration → Exploitation → Reporting
+- 📝 **Report Quality**: Clear PoC, Impact assessment, Remediation suggestions
+
+🚀 Projects & Tools
+| Tool | Purpose | Language |
+|------|---------|----------|
+| **Burp Suite Extensions** | Custom Java extensions for Burp | Java |
+| **Security Scanner** | Java-based vulnerability scanner | Java |
+| **Reconnaissance Scripts** | Subdomain enumeration, endpoint discovery | Python/Bash |
+| **Payload Generators** | XSS, SQLi, Command Injection payloads | Python/Java |

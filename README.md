@@ -38,13 +38,8 @@ Programming & Scripting
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-- 🔧 **AnonSurf**: Anonymization toolkit
-- 📡 **Airgeddon**: Wireless security auditing
-- 🔍 **Ferret**: Forensic analysis tools
-- 🛡️ **Firejail**: Sandboxing environment
-- 🎯 **Mdk4**: Wireless attack tool
+GitHub Stats
 
- 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasHouran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&show=reviews,discussions_started,discussions_answered" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHouran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8&exclude_repo=github-readme-stats" />
